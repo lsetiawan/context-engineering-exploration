@@ -1,6 +1,6 @@
 [project]
 authors = ["Don Setiawan <landungs@uw.edu>"]
-channels = ["conda-forge"]
+channels = ["https://prefix.dev/conda-forge"]
 name = "context-engineering-exploration"
 platforms = ["osx-arm64"]
 version = "0.1.0"
